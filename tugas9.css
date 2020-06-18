@@ -1,0 +1,19 @@
+body{
+  background-size: cover;
+  border-color: 2px solid black;
+  z-index: 2;
+  background-image: url('slider2.jpg');
+}
+
+.satu{
+  width: 660px;
+  height: 550px;
+  font-size: 12px;
+  background-color: white;
+  border: 2px solid white;
+  text-align: right;
+  z-index: 1;
+  left:  51%;
+  top: 2%;
+  position: relative;
+}
